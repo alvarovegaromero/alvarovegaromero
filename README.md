@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarovegaromero&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovegaromero&layout=avarovegaromero&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovegaromero&layout=avarovegaromero&theme=dark)
 
 
 <!--
