@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently looking for work while studying
+- 🌱 I’m currently learning Angular and React
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... -->
+- 📫 How to reach me: LinkedIn or Gmail (vegaromeroalvaro@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Sometimes, the solution to our problems is a ;
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovegaromero&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarovegaromero&show_icons=true&theme=dark)
 
