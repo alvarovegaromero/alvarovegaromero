@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🔭 I’m currently looking for work while studying
-- 🌱 I’m currently learning Angular and React
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
+- 🔭 I’m currently looking for work while studying
+- 🌱 I’m currently learning Angular and React
 - 📫 How to reach me: LinkedIn or Gmail (vegaromeroalvaro@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes, the solution to our problems is a ;
