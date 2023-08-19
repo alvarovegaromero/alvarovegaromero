@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
 - 🔭 I’m currently looking for work while studying
-- 🌱 I’m currently learning Angular and React
+- 🌱 I’m currently learning Angular <!-- and React -->
 - 📫 How to reach me: LinkedIn or Gmail (vegaromeroalvaro@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes, the solution to our problems is a ;
