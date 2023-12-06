@@ -1,10 +1,10 @@
 ### Hi there, I'm Álvaro 👋
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently working on Badger Maps 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-- 🔭 I’m currently looking for work while studying
+<!-- - 🔭 I’m currently looking for work while studying -->
 - 🌱 I’m currently learning about Project Management <!-- Angular and React -->
 - 📫 How to reach me: LinkedIn or Gmail (vegaromeroalvaro@gmail.com)
 - 😄 Pronouns: He/Him
