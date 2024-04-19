@@ -4,8 +4,8 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
 <!-- - 🔭 I’m currently looking for work while studying -->
-- 🔭 I’m currently working on @BadgerMaps 
-- 🌱 I’m currently learning about Project Management <!-- Angular and React -->
+- 🔭 Currently working on @BadgerMaps 
+- 🌱 I’m currently learning about Project Management, React-Native and Django <!-- Angular and React -->
 - 📫 How to reach me: LinkedIn or Gmail (vegaromeroalvaro@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes, the solution to our problems is a ;
