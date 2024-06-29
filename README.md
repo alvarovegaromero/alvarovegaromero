@@ -1,8 +1,8 @@
 ### Hi there, I'm Álvaro 👋
 
 - 🔭 Currently working on personal projects while looking for a job
-- 🌱 I’m currently learning about Project Management, React-Native, and Django <!-- Angular and React -->
-- 📫 How to reach me: LinkedIn or Gmail (vegaromeroalvaro@gmail.com)
+- 🌱 I’m currently learning about React-Native, and Django <!-- Angular and React -->
+- 📫 How to reach me: email to vegaromeroalvaro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes, the solution to our problems is just ;
 
