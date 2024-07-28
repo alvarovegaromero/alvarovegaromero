@@ -1,6 +1,6 @@
 ### Hi there, I'm Álvaro 👋
 
-- 🔭 Currently working on personal projects while looking for a job
+- 🔭 Currently working on several personal projects 
 - 🌱 I’m currently learning about React-Native, and Django <!-- Angular and React -->
 - 📫 How to reach me: email to vegaromeroalvaro@gmail.com
 - 😄 Pronouns: He/Him
