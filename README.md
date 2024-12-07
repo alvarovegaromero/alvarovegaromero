@@ -1,13 +1,13 @@
 ### Hi there, I'm Álvaro 👋
 
-- 🔭 Currently working as a Junior Software Engineer (Full-time) at Verisure and as a Freelance Coding Expert for AI Training at Outlier.
-<!-- on several personal projects -->
+- 🔭 Currently working as a Junior Software Engineer (Full-time) at Verisure and as a Freelance Coding Expert for AI Training at Outlier
 - 🌱 I’m currently learning about Java and Spring Boot
-<!-- React-Native, and Django Angular and React -->
 - 📫 How to reach me: email to vegaromeroalvaro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes, the solution to our problems is just ;
 
+<!-- React-Native, and Django Angular and React -->
+<!-- on several personal projects -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovegaromero&layout=compact&theme=dark) -->
 <!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarovegaromero&show_icons=true&theme=dark) -->
 
