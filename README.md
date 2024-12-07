@@ -1,7 +1,9 @@
 ### Hi there, I'm Álvaro 👋
 
-- 🔭 Currently working on several personal projects 
-- 🌱 I’m currently learning about React-Native, and Django <!-- Angular and React -->
+- 🔭 Currently working at Verisure as a Junior Software Engineer (Full-time) and Outlier as a Coding Expertise for AI Training (Freelancer)
+<!-- on several personal projects -->
+- 🌱 I’m currently learning about Java and Spring Boot
+<!-- React-Native, and Django Angular and React -->
 - 📫 How to reach me: email to vegaromeroalvaro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes, the solution to our problems is just ;
