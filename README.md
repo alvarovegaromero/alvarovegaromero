@@ -1,6 +1,6 @@
 ### Hi there, I'm Álvaro 👋
 
-- 🔭 Currently working at Verisure as a Junior Software Engineer (Full-time) and Outlier as a Coding Expertise for AI Training (Freelancer)
+- 🔭 Currently working as a Junior Software Engineer (Full-time) at Verisure and as a Freelance Coding Expert for AI Training at Outlier.
 <!-- on several personal projects -->
 - 🌱 I’m currently learning about Java and Spring Boot
 <!-- React-Native, and Django Angular and React -->
