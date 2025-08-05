@@ -1,27 +1,23 @@
-### Hi there, I'm Álvaro 👋
+# Hello there! I'm Álvaro! 👋
 
-- 🔭 Currently working as a Junior Software Engineer (Full-time) at Verisure and as a Freelance Coding Expert for AI Training at Outlier
-- 🌱 I’m currently learning about Java and Spring Boot
-- 📫 How to reach me: email to vegaromeroalvaro@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes, the solution to our problems is just ;
+- I'm a **Full Stack Developer** originally from **Granada, Spain**, currently based in **Madrid** 🇪🇸.
 
-<!-- React-Native, and Django Angular and React -->
-<!-- on several personal projects -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarovegaromero&layout=compact&theme=dark) -->
-<!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarovegaromero&show_icons=true&theme=dark) -->
+---
+### 💻 Languages
+`Java` · `Python` · `TypeScript` · `JavaScript` · `SQL`
 
-<!--
-**alvarovegaromero/alvarovegaromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- **Backend:** `Spring Boot` · `Django`  
+- **Frontend:** `Angular` · `React`  
+- **Mobile:** `React Native`  
+- **Cloud & Tools:** `AWS` · `Docker` · `MongoDB` · `MySQL`
+  
+### 🔗 Connect with me
+Check out my [LinkedIn](https://www.linkedin.com/in/vegaromeroalvaro/) to see what I do and feel free to connect for collaboration! 🙂
+### 👨‍💻 Currently
+- 💼 Junior Software Engineer (Full-time) at **Verisure**
+- 👨‍🏫 Freelance Coding Expert for AI Training at **Outlier**
+### 🤝 Open to collaborate on
+- Always open to collaborate on interesting projects in any technology!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=alvarovegaromero&theme=dark&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
