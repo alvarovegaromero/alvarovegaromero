@@ -18,4 +18,4 @@ Check out my [LinkedIn](https://www.linkedin.com/in/vegaromeroalvaro/) to see wh
 ### 🤝 Open to collaborate on
 - Always open to collaborate on interesting projects in any technology!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alvarovegaromero&theme=dark&border_radius=4.7&mode=weekly)]
+![GitHub Streak](https://streak-stats.demolab.com?user=alvarovegaromero&theme=dark&border_radius=4.7&mode=weekly)
