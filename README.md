@@ -10,7 +10,7 @@ Full Stack Developer from Granada, based in Madrid 🇪🇸
 - **Frontend:** `Angular` · `React`  
 - **Mobile:** `React Native`  
 - **Cloud & Tools:** `AWS` · `Docker` · `MongoDB` · `MySQL`
-- 
+
 ### 👨‍💻 Current roles
 - **Software Engineer** @ Verisure
 - **AI Training Expert** @ Outlier (Freelance)
