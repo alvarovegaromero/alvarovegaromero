@@ -1,8 +1,6 @@
 # Hello there! I'm Álvaro! 👋
-
 - I'm a **Full Stack Developer** originally from **Granada, Spain**, currently based in **Madrid** 🇪🇸.
 
----
 ### 💻 Languages
 `Java` · `Python` · `TypeScript` · `JavaScript` · `SQL`
 
